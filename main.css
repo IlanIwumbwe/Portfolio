@@ -9,11 +9,10 @@ body {
 }
 
 .container {
-    max-width: 800px; /* Set the maximum width of the content */
-    margin: 0 auto; /* Center the content within the page */
-    background-color: #fff; /* White background for the content */
-    padding: 20px; /* Add some padding around the content */
-    border: 1px solid #ccc; /* Add a border around the content */
+    max-width: 800px; 
+    margin: 0 auto; 
+    background-color: #fff; 
+    border: 1px solid #ccc; 
     border-radius: 5px;
     margin-bottom: 40px;
 }
@@ -40,27 +39,23 @@ body {
     text-align: left;
 }
 
-/* Style for the horizontal line */
 hr {
     border: none;
-    border-top: 2px solid #333; /* Adjust the line color and thickness */
-    margin: 10px 0; /* Adjust the margin above and below the line */
+    border-top: 2px solid #333; 
+    margin: 10px 0; 
 }
 
-/* Style for the footer */
 footer {
-    color: #000000; /* Text color for the footer */
+    color: #000000;
     text-align: center;
     padding: 20px;
 }
 
-/* Style for links inside the footer */
 footer a {
     color: #494949;
     text-decoration: none;
 }
 
-/* Hover effect for links in the footer */
 footer a:hover {
     text-decoration: underline;
 }
