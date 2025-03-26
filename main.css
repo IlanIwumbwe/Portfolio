@@ -1,50 +1,28 @@
 header img{
-    width: 80px;
+    width: 1000px;
     vertical-align: middle;
 }
 
-body {
-    font-family: Helvetica, Arial, sans-serif;
+.othertext {
+    font-family: 'Helvetica', sans-serif;
     font-size: 16px;
     line-height: 1.5;
     font-weight: 300;
     background-color: #fdfdfd;
-    text-align: center;
-    background: -webkit-linear-gradient(left, #a3a0a0, #e8e5e5, #f7f7f7); /* Safari, Chrome */
-    background: -moz-linear-gradient(left, #a3a0a0, #e8e5e5, #f7f7f7);    /* Firefox */
-    background: -o-linear-gradient(left, #a3a0a0, #e8e5e5, #f7f7f7);      /* Opera */
-    background: linear-gradient(to right, #a3a0a0, #e8e5e5, #f7f7f7); 
-}
-
-.container {
-    max-width: 800px; 
-    margin: 0 auto; 
-    background-color: #fff; 
-    border: 1px solid #ccc; 
-    border-radius: 5px;
-    margin-bottom: 40px;
-}
-
-.subcontainer {
-    margin: 20px;
-    padding: 20px;  
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-.subcontainer h2 {
-    font-size: 24px;
-}
-.subcontainer p {
-    font-size: 16px;
-}
-.subcontainer img {
-    max-width: 100%;
-    height: auto;
-    margin-top: 10px;
-}
-
-.skills-listing{
     text-align: left;
+}
+
+body .prometheus {
+    font-family: 'Lucida Console', monospace;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 300;
+    background-color: #fdfdfd;
+    text-align: left;
+}
+
+.slide {
+    display: none;
 }
 
 hr {
