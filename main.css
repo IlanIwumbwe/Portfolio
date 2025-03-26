@@ -12,7 +12,7 @@ header img{
     text-align: left;
 }
 
-body .prometheus {
+body {
     font-family: 'Lucida Console', monospace;
     font-size: 16px;
     line-height: 1.5;
